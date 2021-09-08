@@ -6,6 +6,10 @@ sites:
     url: https://api.fureweb.com
   - name: addugo
     url: https://addugo.com
+  - name: fureweb blog (legacy)
+    url: http://fureweb.com
+  - name: webpoll (legacy)
+    url: http://webpoll.co.kr
 
 assignees:
   - fureweb-com
