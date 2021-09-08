@@ -10,6 +10,8 @@ sites:
     url: http://fureweb.com
   - name: webpoll (legacy)
     url: http://webpoll.co.kr
+  - name: Y FLUX PMS (PC)
+    url: https://pms.yflux.biz
 
 assignees:
   - fureweb-com
