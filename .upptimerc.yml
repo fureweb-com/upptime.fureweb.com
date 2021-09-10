@@ -2,6 +2,8 @@ owner: fureweb-com
 repo: upptime.fureweb.com
 
 sites:
+  - name: fureweb blog (GITHUB)
+    url: https://fureweb-com.github.io
   - name: api.fureweb.com
     url: https://api.fureweb.com
   - name: addugo
