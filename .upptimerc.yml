@@ -14,6 +14,8 @@ sites:
     url: http://webpoll.co.kr
   - name: Y FLUX PMS (PC)
     url: https://pms.yflux.biz
+  - name: goree
+    url: https://goree.kr
 
 assignees:
   - fureweb-com
