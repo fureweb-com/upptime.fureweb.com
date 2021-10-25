@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/api.fureweb.com",
     "slug": "api-fureweb-com",
     "status": "up",
-    "uptime": "90.56%",
+    "uptime": "90.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.41%",
-    "uptimeYear": "90.56%",
+    "uptimeYear": "90.57%",
     "time": 715,
     "timeDay": 526,
     "timeWeek": 756,
@@ -123,9 +123,9 @@
     "url": "https://goree.kr",
     "icon": "https://favicons.githubusercontent.com/goree.kr",
     "slug": "goree",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,6 +134,8 @@
     "timeWeek": 1637,
     "timeMonth": 1609,
     "timeYear": 1609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 0
+    }
   }
 ]
