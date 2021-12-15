@@ -16,6 +16,8 @@ sites:
     url: https://pms.yflux.biz
   - name: goree
     url: https://goree.kr
+  - name: npm
+    url: https://status.npmjs.org
 
 assignees:
   - fureweb-com
