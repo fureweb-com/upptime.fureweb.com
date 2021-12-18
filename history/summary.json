@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 56,
-    "timeWeek": 67,
+    "timeDay": 124,
+    "timeWeek": 77,
     "timeMonth": 68,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -23,15 +23,15 @@
     "icon": "https://favicons.githubusercontent.com/api.fureweb.com",
     "slug": "api-fureweb-com",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "95.45%",
+    "uptimeYear": "95.50%",
     "time": 729,
-    "timeDay": 558,
-    "timeWeek": 735,
-    "timeMonth": 742,
+    "timeDay": 674,
+    "timeWeek": 717,
+    "timeMonth": 743,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2021-12-07": 158,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 738,
-    "timeDay": 538,
-    "timeWeek": 730,
+    "time": 737,
+    "timeDay": 680,
+    "timeWeek": 713,
     "timeMonth": 742,
-    "timeYear": 738,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2021-10-25": 24
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1009,
-    "timeDay": 801,
-    "timeWeek": 995,
-    "timeMonth": 1005,
-    "timeYear": 1009,
+    "time": 1008,
+    "timeDay": 917,
+    "timeWeek": 973,
+    "timeMonth": 1006,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2021-09-08": 366
     }
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1286,
-    "timeDay": 825,
-    "timeWeek": 1266,
-    "timeMonth": 1246,
-    "timeYear": 1286,
+    "time": 1283,
+    "timeDay": 979,
+    "timeWeek": 1170,
+    "timeMonth": 1247,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2021-09-08": 365
     }
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 1033,
-    "timeWeek": 1147,
-    "timeMonth": 1139,
-    "timeYear": 1103,
+    "time": 1106,
+    "timeDay": 1337,
+    "timeWeek": 1156,
+    "timeMonth": 1149,
+    "timeYear": 1106,
     "dailyMinutesDown": {}
   },
   {
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1651,
-    "timeDay": 1257,
-    "timeWeek": 1673,
-    "timeMonth": 1693,
-    "timeYear": 1651,
+    "time": 1650,
+    "timeDay": 1593,
+    "timeWeek": 1626,
+    "timeMonth": 1690,
+    "timeYear": 1650,
     "dailyMinutesDown": {
       "2021-10-25": 48
     }
@@ -152,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 161,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 255,
+    "timeDay": 406,
+    "timeWeek": 255,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   }
 ]
