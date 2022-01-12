@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 106,
-    "timeWeek": 100,
-    "timeMonth": 80,
-    "timeYear": 79,
+    "time": 80,
+    "timeDay": 107,
+    "timeWeek": 101,
+    "timeMonth": 81,
+    "timeYear": 80,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://api.fureweb.com",
     "icon": "https://favicons.githubusercontent.com/api.fureweb.com",
     "slug": "api-fureweb-com",
-    "status": "down",
+    "status": "up",
     "uptime": "96.41%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.41%",
     "time": 737,
-    "timeDay": 683,
-    "timeWeek": 756,
-    "timeMonth": 755,
+    "timeDay": 695,
+    "timeWeek": 750,
+    "timeMonth": 754,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2022-01-12": 0,
+      "2022-01-12": 2,
       "2021-12-07": 158,
       "2021-10-12": 483,
       "2021-10-11": 1440,
@@ -43,6 +43,24 @@
       "2021-10-08": 1440,
       "2021-10-07": 149
     }
+  },
+  {
+    "name": "wiki.fureweb.com",
+    "url": "https://wiki.fureweb.com",
+    "icon": "https://favicons.githubusercontent.com/wiki.fureweb.com",
+    "slug": "wiki-fureweb-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 989,
+    "timeDay": 989,
+    "timeWeek": 989,
+    "timeMonth": 989,
+    "timeYear": 989,
+    "dailyMinutesDown": {}
   },
   {
     "name": "addugo",
@@ -56,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 742,
-    "timeDay": 689,
-    "timeWeek": 751,
-    "timeMonth": 748,
+    "timeDay": 695,
+    "timeWeek": 745,
+    "timeMonth": 747,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2021-10-25": 24
@@ -77,8 +95,8 @@
     "uptimeYear": "99.80%",
     "time": 1007,
     "timeDay": 908,
-    "timeWeek": 1001,
-    "timeMonth": 993,
+    "timeWeek": 989,
+    "timeMonth": 991,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2021-09-08": 366
@@ -95,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1278,
-    "timeDay": 956,
-    "timeWeek": 1164,
-    "timeMonth": 1210,
-    "timeYear": 1278,
+    "time": 1281,
+    "timeDay": 1300,
+    "timeWeek": 1224,
+    "timeMonth": 1223,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2021-09-08": 365
     }
@@ -115,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1123,
-    "timeDay": 1362,
-    "timeWeek": 1272,
-    "timeMonth": 1188,
-    "timeYear": 1123,
+    "time": 1124,
+    "timeDay": 1269,
+    "timeWeek": 1260,
+    "timeMonth": 1187,
+    "timeYear": 1124,
     "dailyMinutesDown": {}
   },
   {
@@ -133,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1701,
-    "timeDay": 1577,
-    "timeWeek": 1733,
-    "timeMonth": 1814,
-    "timeYear": 1701,
+    "time": 1699,
+    "timeDay": 1522,
+    "timeWeek": 1699,
+    "timeMonth": 1803,
+    "timeYear": 1699,
     "dailyMinutesDown": {
       "2021-10-25": 48
     }
@@ -153,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 393,
-    "timeWeek": 419,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 308,
+    "timeDay": 492,
+    "timeWeek": 441,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   }
 ]
