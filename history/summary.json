@@ -24,8 +24,8 @@
     "slug": "api-fureweb-com",
     "status": "up",
     "uptime": "96.41%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.41%",
     "time": 737,
@@ -34,7 +34,6 @@
     "timeMonth": 754,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2022-01-12": 2,
       "2021-12-07": 158,
       "2021-10-12": 483,
       "2021-10-11": 1440,
