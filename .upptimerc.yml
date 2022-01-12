@@ -6,6 +6,8 @@ sites:
     url: https://fureweb-com.github.io
   - name: api.fureweb.com
     url: https://api.fureweb.com
+  - name: wiki.fureweb.com
+    url: https://wiki.fureweb.com
   - name: addugo
     url: https://addugo.com
   - name: fureweb blog (legacy)
