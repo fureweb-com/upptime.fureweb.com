@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/api.fureweb.com",
     "slug": "api-fureweb-com",
     "status": "up",
-    "uptime": "96.75%",
+    "uptime": "96.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.75%",
+    "uptimeYear": "96.76%",
     "time": 735,
     "timeDay": 607,
     "timeWeek": 717,
@@ -165,17 +165,19 @@
     "url": "https://status.npmjs.org",
     "icon": "https://favicons.githubusercontent.com/status.npmjs.org",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 172,
-    "timeWeek": 348,
-    "timeMonth": 339,
-    "timeYear": 310,
-    "dailyMinutesDown": {}
+    "time": 597,
+    "timeDay": 6692,
+    "timeWeek": 1956,
+    "timeMonth": 729,
+    "timeYear": 597,
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   }
 ]
