@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fureweb.com.ico",
     "slug": "api-fureweb-com",
     "status": "up",
-    "uptime": "94.62%",
+    "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -77,7 +77,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fureweb.com.ico",
     "slug": "wiki-fureweb-com",
     "status": "up",
-    "uptime": "94.07%",
+    "uptime": "94.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -238,9 +238,9 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,6 +250,7 @@
     "timeMonth": 379,
     "timeYear": 444,
     "dailyMinutesDown": {
+      "2023-03-05": 0,
       "2022-10-07": 18
     }
   }
