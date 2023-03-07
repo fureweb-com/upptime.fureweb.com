@@ -78,9 +78,9 @@
     "slug": "wiki-fureweb-com",
     "status": "up",
     "uptime": "94.11%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "93.66%",
     "time": 793,
     "timeDay": 765,
@@ -88,7 +88,6 @@
     "timeMonth": 785,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2023-03-07": 11,
       "2023-01-10": 925,
       "2023-01-09": 1440,
       "2023-01-08": 790,
@@ -195,18 +194,16 @@
     "slug": "y-flux-pms-pc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1060,
     "timeDay": 1178,
     "timeWeek": 1119,
     "timeMonth": 1094,
     "timeYear": 1024,
-    "dailyMinutesDown": {
-      "2023-03-07": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "goree",
@@ -214,10 +211,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/goree.kr.ico",
     "slug": "goree",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.85%",
+    "uptime": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.06%",
     "time": 1796,
     "timeDay": 1974,
@@ -225,7 +222,6 @@
     "timeMonth": 1808,
     "timeYear": 1803,
     "dailyMinutesDown": {
-      "2023-03-07": 9,
       "2023-02-25": 55,
       "2023-01-30": 96,
       "2022-05-30": 63,
@@ -242,9 +238,9 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -254,6 +250,7 @@
     "timeMonth": 386,
     "timeYear": 445,
     "dailyMinutesDown": {
+      "2023-03-07": 0,
       "2022-10-07": 18
     }
   }
