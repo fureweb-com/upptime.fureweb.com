@@ -241,19 +241,19 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 471,
-    "timeWeek": 286,
-    "timeMonth": 376,
+    "timeDay": 465,
+    "timeWeek": 307,
+    "timeMonth": 378,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2023-03-17": 0,
+      "2023-03-17": 7,
       "2022-10-07": 18
     }
   }
