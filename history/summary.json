@@ -130,9 +130,9 @@
     "slug": "addugo",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.96%",
     "time": 713,
     "timeDay": 700,
@@ -140,7 +140,6 @@
     "timeMonth": 687,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2023-03-28": 13,
       "2023-03-15": 139,
       "2023-03-14": 45
     }
@@ -242,9 +241,9 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -254,6 +253,7 @@
     "timeMonth": 397,
     "timeYear": 421,
     "dailyMinutesDown": {
+      "2023-03-28": 0,
       "2022-10-07": 18
     }
   }
