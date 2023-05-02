@@ -239,9 +239,9 @@
     "slug": "npm",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
     "timeDay": 296,
@@ -249,7 +249,6 @@
     "timeMonth": 338,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-05-01": 7,
       "2022-10-07": 18
     }
   }
