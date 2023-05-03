@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fureweb.com.ico",
     "slug": "api-fureweb-com",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -237,18 +237,19 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 368,
-    "timeWeek": 328,
+    "timeDay": 337,
+    "timeWeek": 319,
     "timeMonth": 340,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2022-10-07": 18
     }
   }
