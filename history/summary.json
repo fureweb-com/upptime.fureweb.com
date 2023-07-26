@@ -183,11 +183,11 @@
     "url": "https://pms.yflux.biz",
     "icon": "https://icons.duckduckgo.com/ip3/pms.yflux.biz.ico",
     "slug": "y-flux-pms-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1044,
     "timeDay": 977,
@@ -195,7 +195,7 @@
     "timeMonth": 1112,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2023-07-26": 7
+      "2023-07-26": 0
     }
   },
   {
