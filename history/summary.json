@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fureweb.com.ico",
     "slug": "wiki-fureweb-com",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -183,18 +183,20 @@
     "url": "https://pms.yflux.biz",
     "icon": "https://icons.duckduckgo.com/ip3/pms.yflux.biz.ico",
     "slug": "y-flux-pms-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1045,
+    "time": 1044,
     "timeDay": 1040,
     "timeWeek": 1143,
     "timeMonth": 1118,
     "timeYear": 1049,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "goree",
@@ -243,7 +245,7 @@
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 53,
-    "timeWeek": 239,
+    "timeWeek": 240,
     "timeMonth": 332,
     "timeYear": 430,
     "dailyMinutesDown": {
