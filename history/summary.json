@@ -220,19 +220,19 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 137,
-    "timeWeek": 263,
-    "timeMonth": 246,
-    "timeYear": 414,
+    "timeDay": 157,
+    "timeWeek": 256,
+    "timeMonth": 244,
+    "timeYear": 413,
     "dailyMinutesDown": {
-      "2023-09-24": 0,
+      "2023-09-24": 7,
       "2022-10-07": 18
     }
   }
