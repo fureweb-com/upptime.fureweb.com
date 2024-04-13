@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-04-13": 376,
+      "2024-04-13": 383,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
@@ -341,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 1957,
     "dailyMinutesDown": {
-      "2024-04-13": 376,
+      "2024-04-13": 384,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
@@ -435,19 +435,19 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 296,
-    "timeDay": 286,
-    "timeWeek": 218,
-    "timeMonth": 203,
+    "timeDay": 280,
+    "timeWeek": 223,
+    "timeMonth": 205,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-04-13": 0,
+      "2024-04-13": 8,
       "2023-10-28": 34
     }
   }
