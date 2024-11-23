@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2024-11-23": 796,
+      "2024-11-23": 807,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -483,10 +483,10 @@
     "url": "http://webpoll.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/webpoll.co.kr.ico",
     "slug": "webpoll-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1050,
@@ -495,6 +495,7 @@
     "timeMonth": 1163,
     "timeYear": 1069,
     "dailyMinutesDown": {
+      "2024-11-23": 1,
       "2024-08-12": 19,
       "2024-05-29": 20
     }
@@ -524,9 +525,9 @@
     "slug": "goree",
     "status": "down",
     "uptime": "78.63%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "38.13%",
     "time": 1959,
     "timeDay": 1984,
@@ -534,7 +535,7 @@
     "timeMonth": 2093,
     "timeYear": 2020,
     "dailyMinutesDown": {
-      "2024-11-23": 0,
+      "2024-11-23": 12,
       "2024-09-19": 883,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
