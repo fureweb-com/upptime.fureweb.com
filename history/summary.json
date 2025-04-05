@@ -59,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "63.83%",
+    "uptime": "63.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 1400,
+      "2025-04-05": 20,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -433,8 +434,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -510,7 +510,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.06%",
+    "uptimeYear": "54.07%",
     "time": 1975,
     "timeDay": 2312,
     "timeWeek": 1831,
@@ -684,8 +684,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -694,10 +693,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.77%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 260,
     "timeDay": 206,
@@ -705,7 +704,6 @@
     "timeMonth": 328,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-04-04": 11,
       "2025-03-28": 35,
       "2025-03-27": 30,
       "2025-03-06": 24,
