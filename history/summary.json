@@ -29,7 +29,7 @@
     "uptimeMonth": "95.89%",
     "uptimeYear": "99.66%",
     "time": 608,
-    "timeDay": 759,
+    "timeDay": 748,
     "timeWeek": 653,
     "timeMonth": 614,
     "timeYear": 618,
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "56.24%",
+    "uptime": "56.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 23,
+      "2025-09-28": 880,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -504,9 +504,9 @@
     "url": "https://goree.kr",
     "icon": "https://icons.duckduckgo.com/ip3/goree.kr.ico",
     "slug": "goree",
-    "status": "up",
-    "uptime": "83.14%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "83.15%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
@@ -516,6 +516,7 @@
     "timeMonth": 1905,
     "timeYear": 1939,
     "dailyMinutesDown": {
+      "2025-09-28": 0,
       "2025-08-28": 72,
       "2024-11-23": 44
     }
