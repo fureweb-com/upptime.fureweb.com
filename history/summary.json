@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "55.42%",
+    "uptime": "55.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 23,
+      "2025-10-20": 464,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -486,18 +486,20 @@
     "url": "https://pms.yflux.biz",
     "icon": "https://icons.duckduckgo.com/ip3/pms.yflux.biz.ico",
     "slug": "y-flux-pms-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1111,
-    "timeDay": 977,
-    "timeWeek": 1128,
-    "timeMonth": 1150,
+    "timeDay": 1010,
+    "timeWeek": 1118,
+    "timeMonth": 1147,
     "timeYear": 1121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "goree",
@@ -505,7 +507,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/goree.kr.ico",
     "slug": "goree",
     "status": "up",
-    "uptime": "83.39%",
+    "uptime": "83.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
