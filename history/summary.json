@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 464,
+      "2025-10-20": 471,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -486,19 +486,19 @@
     "url": "https://pms.yflux.biz",
     "icon": "https://icons.duckduckgo.com/ip3/pms.yflux.biz.ico",
     "slug": "y-flux-pms-pc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1111,
-    "timeDay": 1010,
-    "timeWeek": 1118,
-    "timeMonth": 1147,
+    "timeDay": 1014,
+    "timeWeek": 1107,
+    "timeMonth": 1143,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 7
     }
   },
   {
