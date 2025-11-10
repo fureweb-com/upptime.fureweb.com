@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fureweb.com.ico",
     "slug": "api-fureweb-com",
     "status": "up",
-    "uptime": "96.06%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "54.65%",
+    "uptime": "54.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-10": 24,
+      "2025-11-10": 977,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -504,9 +504,9 @@
     "url": "https://goree.kr",
     "icon": "https://icons.duckduckgo.com/ip3/goree.kr.ico",
     "slug": "goree",
-    "status": "up",
+    "status": "down",
     "uptime": "83.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -516,6 +516,7 @@
     "timeMonth": 1913,
     "timeYear": 1929,
     "dailyMinutesDown": {
+      "2025-11-10": 0,
       "2025-08-28": 72,
       "2024-11-23": 44
     }
