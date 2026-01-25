@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 132,
-    "timeWeek": 103,
-    "timeMonth": 121,
-    "timeYear": 109,
+    "timeDay": 176,
+    "timeWeek": 115,
+    "timeMonth": 122,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   },
   {
@@ -28,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 619,
-    "timeDay": 455,
-    "timeWeek": 559,
+    "time": 618,
+    "timeDay": 511,
+    "timeWeek": 538,
     "timeMonth": 606,
     "timeYear": 622,
     "dailyMinutesDown": {
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
-    "timeDay": 644,
-    "timeWeek": 760,
+    "timeDay": 687,
+    "timeWeek": 734,
     "timeMonth": 799,
     "timeYear": 839,
     "dailyMinutesDown": {}
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "52.09%",
+    "uptime": "52.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 24,
+      "2026-01-25": 27,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -436,8 +437,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -451,10 +451,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 625,
-    "timeWeek": 716,
-    "timeMonth": 745,
+    "time": 837,
+    "timeDay": 599,
+    "timeWeek": 680,
+    "timeMonth": 744,
     "timeYear": 856,
     "dailyMinutesDown": {}
   },
@@ -470,9 +470,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1177,
-    "timeDay": 788,
-    "timeWeek": 1036,
-    "timeMonth": 1092,
+    "timeDay": 963,
+    "timeWeek": 1023,
+    "timeMonth": 1094,
     "timeYear": 1172,
     "dailyMinutesDown": {
       "2025-08-28": 72
@@ -490,8 +490,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1125,
-    "timeDay": 832,
-    "timeWeek": 1042,
+    "timeDay": 1033,
+    "timeWeek": 1052,
     "timeMonth": 1101,
     "timeYear": 1136,
     "dailyMinutesDown": {}
@@ -502,16 +502,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/goree.kr.ico",
     "slug": "goree",
     "status": "up",
-    "uptime": "84.40%",
+    "uptime": "84.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1923,
-    "timeDay": 1484,
-    "timeWeek": 1732,
-    "timeMonth": 1714,
-    "timeYear": 1893,
+    "time": 1924,
+    "timeDay": 1619,
+    "timeWeek": 1663,
+    "timeMonth": 1723,
+    "timeYear": 1894,
     "dailyMinutesDown": {
       "2025-08-28": 72
     }
@@ -528,9 +528,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 319,
-    "timeDay": 147,
-    "timeWeek": 360,
-    "timeMonth": 280,
+    "timeDay": 191,
+    "timeWeek": 339,
+    "timeMonth": 276,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2026-01-20": 17,
