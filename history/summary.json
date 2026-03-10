@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "50.66%",
+    "uptime": "50.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 27,
+      "2026-03-10": 719,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -463,9 +463,9 @@
     "url": "http://webpoll.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/webpoll.co.kr.ico",
     "slug": "webpoll-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -475,6 +475,7 @@
     "timeMonth": 1105,
     "timeYear": 1165,
     "dailyMinutesDown": {
+      "2026-03-10": 0,
       "2026-02-02": 19,
       "2025-08-28": 72
     }
