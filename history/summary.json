@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 508,
+      "2026-06-14": 587,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -564,17 +564,17 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "99.46%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "99.45%",
     "time": 332,
-    "timeDay": 145,
+    "timeDay": 163,
     "timeWeek": 203,
     "timeMonth": 200,
-    "timeYear": 353,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2025-08-06": 16,
       "2025-08-27": 34,
@@ -593,7 +593,7 @@
       "2026-06-07": 126,
       "2026-06-09": 50,
       "2026-06-12": 111,
-      "2026-06-14": 0
+      "2026-06-14": 79
     }
   }
 ]
