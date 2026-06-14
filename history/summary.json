@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "47.87%",
+    "uptime": "47.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 59,
+      "2026-06-14": 508,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -564,16 +564,16 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.66%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.39%",
     "uptimeMonth": "94.05%",
     "uptimeYear": "99.46%",
-    "time": 333,
-    "timeDay": 272,
-    "timeWeek": 218,
-    "timeMonth": 203,
+    "time": 332,
+    "timeDay": 145,
+    "timeWeek": 203,
+    "timeMonth": 200,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-08-06": 16,
@@ -592,7 +592,8 @@
       "2026-06-06": 187,
       "2026-06-07": 126,
       "2026-06-09": 50,
-      "2026-06-12": 111
+      "2026-06-12": 111,
+      "2026-06-14": 0
     }
   }
 ]
