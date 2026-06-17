@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "47.77%",
+    "uptime": "47.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 955,
+      "2026-06-17": 1323,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -508,7 +508,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/goree.kr.ico",
     "slug": "goree",
     "status": "up",
-    "uptime": "83.64%",
+    "uptime": "83.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -564,16 +564,16 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "79.66%",
-    "uptimeWeek": "92.48%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "99.34%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "54.10%",
+    "uptimeWeek": "88.83%",
+    "uptimeMonth": "91.74%",
+    "uptimeYear": "99.27%",
     "time": 324,
-    "timeDay": 151,
-    "timeWeek": 221,
-    "timeMonth": 206,
+    "timeDay": 129,
+    "timeWeek": 213,
+    "timeMonth": 203,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-08-06": 16,
@@ -596,7 +596,7 @@
       "2026-06-14": 164,
       "2026-06-15": 81,
       "2026-06-16": 109,
-      "2026-06-17": 293
+      "2026-06-17": 661
     }
   }
 ]
