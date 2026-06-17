@@ -1,7 +1,7 @@
 url: https://status.npmjs.org
-status: up
-code: 200
-responseTime: 163
-lastUpdated: 2026-06-17T15:54:32.662Z
+status: down
+code: 405
+responseTime: 17
+lastUpdated: 2026-06-17T22:02:43.280Z
 startTime: 2021-12-15T15:38:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
