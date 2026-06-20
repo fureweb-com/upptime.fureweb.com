@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fureweb.com.ico",
     "slug": "wiki-fureweb-com",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/addugo.com.ico",
     "slug": "addugo",
     "status": "down",
-    "uptime": "47.70%",
+    "uptime": "47.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 55,
+      "2026-06-20": 471,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -564,17 +564,17 @@
     "url": "https://status.npmjs.org",
     "icon": "https://icons.duckduckgo.com/ip3/status.npmjs.org.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "89.55%",
     "uptimeMonth": "91.65%",
     "uptimeYear": "99.26%",
     "time": 324,
-    "timeDay": 338,
-    "timeWeek": 211,
-    "timeMonth": 202,
-    "timeYear": 348,
+    "timeDay": 224,
+    "timeWeek": 207,
+    "timeMonth": 201,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2025-08-06": 16,
       "2025-08-27": 34,
@@ -596,7 +596,8 @@
       "2026-06-14": 164,
       "2026-06-15": 81,
       "2026-06-16": 109,
-      "2026-06-17": 700
+      "2026-06-17": 700,
+      "2026-06-20": 0
     }
   }
 ]
